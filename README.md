@@ -62,6 +62,7 @@ Excel / CSV – Data source and preprocessing
 ---
 
 ## 📷 Dashboard Preview
+<img width="592" height="335" alt="Vendor analysis" src="https://github.com/user-attachments/assets/1efde5ab-be6f-4699-a5d5-6f8e9b1fd65f" />
 
 
 📂 Files Included
