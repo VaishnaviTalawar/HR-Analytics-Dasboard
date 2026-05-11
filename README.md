@@ -62,7 +62,8 @@ Excel / CSV – Data source and preprocessing
 ---
 
 ## 📷 Dashboard Preview
-"C:\Users\Vaishnavi\Downloads\Vendor_analysis.png"
+<img width="593" height="332" alt="Vendor_analysis" src="https://github.com/user-attachments/assets/52da2523-2435-4877-85a8-ba57b7516cc5" />
+
 
 📂 Files Included
 
