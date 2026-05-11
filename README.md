@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analytics Dashboard (Power BI)
+# 📊 Vendor Sales & Profit Analytics Dashboard (Power BI)
 
 ## 📌 Project Overview
 
