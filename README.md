@@ -74,8 +74,3 @@ dashboard.png → Dashboard preview image
 
 This dashboard provides actionable insights into sales, profitability, and inventory management. It can help businesses optimize vendor selection, improve inventory planning, and increase overall profitability.
 
-🚀 Future Improvements
-
-* Add customer segmentation analysis
-* Include forecasting for sales trends
-* Enhance interactivity with advanced filters and drill-through features
